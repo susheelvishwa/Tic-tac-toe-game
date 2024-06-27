@@ -2,9 +2,9 @@ This project implements a classic Tic-Tac-Toe game using HTML, CSS, and JavaScri
 
 ## Demo
 
-You can play the game live [here](link-to-your-game).
+You can play the game live [here](https://stellular-biscotti-1e9c47.netlify.app/).
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](./image.png)
 
 ## Features
 
