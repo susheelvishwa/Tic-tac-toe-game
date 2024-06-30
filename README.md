@@ -4,7 +4,7 @@ This project implements a classic Tic-Tac-Toe game using HTML, CSS, and JavaScri
 
 You can play the game live [here](https://stellular-biscotti-1e9c47.netlify.app/).
 
-![Game Screenshot](./image.png)
+![Game Screenshot](./image1.png)
 
 ## Features
 
@@ -25,7 +25,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/susheelvishwa/Tic-tac-toe-game
     ```
 2. Navigate to the project directory:
     ```sh
